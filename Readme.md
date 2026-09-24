@@ -1,4 +1,4 @@
-# Linux Server Management Project
+# Linux Server Management Project By Michael
 
 ## Project Purpose
 This project provides professional Linux administration scripts, configuration guidelines, installation steps, and troubleshooting procedures for junior DevOps workflows.
