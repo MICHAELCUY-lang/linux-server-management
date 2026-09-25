@@ -5,3 +5,4 @@
 - **Merge Conflicts:** In case of upstream conflicts during pulls, resolve the conflicting lines manually in your editor, then run `git add` and `git commit` to finalize the merge resolution.
 - **Disk Space Issues:** If you encounter 'No space left on device' errors, run `df -h` to check disk usage and clear up unneeded files.
 - **High CPU Usage:** If the server is slow, run `top` or `htop` to identify and kill processes consuming excessive CPU.
+- **Network Connectivity:** Use `ping` or `curl` to verify external network access if updates or package installations fail.
