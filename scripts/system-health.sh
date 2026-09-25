@@ -12,4 +12,3 @@ echo "3. Active Users:"
 who
 echo "=== Check Completed ==="
 echo "=== Author : MIchael ==="
-echo "BROKEN SYSTEM HEALTH CHECK"
