@@ -6,3 +6,4 @@
 - **Disk Space Issues:** If you encounter 'No space left on device' errors, run `df -h` to check disk usage and clear up unneeded files.
 - **High CPU Usage:** If the server is slow, run `top` or `htop` to identify and kill processes consuming excessive CPU.
 - **Network Connectivity:** Use `ping` or `curl` to verify external network access if updates or package installations fail.
+- **Service Failures:** If a systemd service fails to start, investigate the logs using `journalctl -u <service-name>.service` to determine the root cause.
